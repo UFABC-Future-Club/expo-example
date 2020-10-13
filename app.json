@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "projeto1",
+    "name": "Projet 1",
     "slug": "projeto1",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -21,6 +21,9 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "android": {
+      "package": "com.matheus.sena"
     }
   }
 }
